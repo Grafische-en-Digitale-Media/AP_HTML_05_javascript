@@ -1,4 +1,4 @@
-# AP HTML 05 Javascript #
+# BP HTML 05 Javascript #
 ### Repository that illustrates the basics on HTML and CSS & Javascript ###
 
 
